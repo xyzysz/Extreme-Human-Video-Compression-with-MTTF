@@ -1,7 +1,8 @@
 # Extreme-Human-Video-Compression-with-Multi-granularity-Temporal-Trajectory-Factorization
-## Shanzhi Yin&dagger;, Bolin Chen&dagger;, Shiqi Wang&dagger; and Yan Ye&sect;
+### Shanzhi Yin&dagger;, Bolin Chen&dagger;, Shiqi Wang&dagger; and Yan Ye&sect;
 
-### &dagger; City University of Hong Kong and &sect; Alibaba Group
+#### &dagger; City University of Hong Kong and &sect; Alibaba Group
+
 + We propose a novel Multi-granularity Temporal Trajectory Factorization (MTTF) framework for extreme human video compression, which holds great potential for
 bandwidth-constrained human-centered video streaming.
 + In particular, the proposed motion factorization strategy can facilitate to implicitly characterize the high-dimensional visual signal into compact motion vectors for representation compactness and further transform these vectors into a fine-grained field for motion expressibility. As such, the coded bit-stream can be entailed with enough visual motion information at the lowest representation cost. 
