@@ -16,3 +16,7 @@ Comming Soon..
 
 ## Code Release
 Comming soon..
+
+### :e-mail: Contact
+
+If you have any question or collaboration need (research purpose or commercial purpose), please email `shanzhyin3-c@my.cityu.edu.hk`
