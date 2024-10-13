@@ -1,4 +1,4 @@
-[subjective1.pptx](https://github.com/user-attachments/files/17354897/subjective1.pptx)# Extreme-Human-Video-Compression-with-Multi-granularity-Temporal-Trajectory-Factorization
+# Extreme-Human-Video-Compression-with-Multi-granularity-Temporal-Trajectory-Factorization
 ### Shanzhi Yin&dagger;, Bolin Chen&dagger;, Shiqi Wang&dagger; and Yan Ye&sect;
 
 #### &dagger; City University of Hong Kong and &sect; Alibaba Group
