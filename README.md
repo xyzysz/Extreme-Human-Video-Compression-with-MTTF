@@ -1,4 +1,4 @@
-# Extreme-Human-Video-Compression-with-Multi-granularity-Temporal-Trajectory-Factorization
+[subjective1.pptx](https://github.com/user-attachments/files/17354897/subjective1.pptx)# Extreme-Human-Video-Compression-with-Multi-granularity-Temporal-Trajectory-Factorization
 ### Shanzhi Yin&dagger;, Bolin Chen&dagger;, Shiqi Wang&dagger; and Yan Ye&sect;
 
 #### &dagger; City University of Hong Kong and &sect; Alibaba Group
@@ -14,12 +14,20 @@ bandwidth-constrained human-centered video streaming.
 ## Subjective Demos
 
 
-https://github.com/user-attachments/assets/e15a6bc3-0c22-48de-bed0-47123b1b55f3
+
+
+https://github.com/user-attachments/assets/b154bc18-71fc-477e-915b-477b6cd50341
+
+
+
+https://github.com/user-attachments/assets/d0d1135b-4555-4a9a-ba81-ea6e46cba2bb
 
 
 
 
-https://github.com/user-attachments/assets/3a2b6c02-9eff-4a50-97eb-a34d27d192d1
+https://github.com/user-attachments/assets/1953f48f-27f5-41bd-898e-a09db2b22b7d
+
+
 
 
 ## Code Release
