@@ -13,17 +13,16 @@ bandwidth-constrained human-centered video streaming.
 
 ## Subjective Demos
 
-https://github.com/user-attachments/assets/b154bc18-71fc-477e-915b-477b6cd50341
+https://github.com/user-attachments/assets/25a7e8c3-52b3-4f40-b310-ab8be44cdad7
 
-https://github.com/user-attachments/assets/d0d1135b-4555-4a9a-ba81-ea6e46cba2bb
+https://github.com/user-attachments/assets/e7c5c125-28e2-444a-aa79-ee25c38f19cc
 
-https://github.com/user-attachments/assets/1953f48f-27f5-41bd-898e-a09db2b22b7d
+https://github.com/user-attachments/assets/c1b7cef1-0a16-4b4c-b4d1-ab7c4050ee5e
 
-https://github.com/user-attachments/assets/2466bdc6-5c9c-40d7-b26e-e9188e8bf450
+https://github.com/user-attachments/assets/846c4c35-2d7c-4b37-adc0-854eebb6fbf1
 
-https://github.com/user-attachments/assets/a6c8c301-c142-4465-9035-e4d7b23a2c8a
+https://github.com/user-attachments/assets/0b281538-8a2b-4eea-917a-ac467f7b6cda
 
-https://github.com/user-attachments/assets/d9a47ba6-6e13-437e-a23d-414981343310
 
 
 ## Code Release
