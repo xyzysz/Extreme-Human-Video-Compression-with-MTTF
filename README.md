@@ -1,4 +1,4 @@
-# Extreme-Human-Video-Compression-with-Multi-granularity-Temporal-Trajectory-Factorization
+# [TCSVT2026]Extreme-Human-Video-Compression-with-Multi-granularity-Temporal-Trajectory-Factorization
 ### Shanzhi Yin&dagger;, Bolin Chen&dagger;, Shiqi Wang&dagger; and Yan Ye&sect;
 
 #### &dagger; City University of Hong Kong and &sect; Alibaba Group
