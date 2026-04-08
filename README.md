@@ -9,7 +9,7 @@ bandwidth-constrained human-centered video streaming.
 + Meanwhile, a resolution-expandable generative module is developed with enhanced background stability, such that the proposed framework can be optimized towards higher reconstruction robustness and more flexible resolution adaptation.
 + Experimental results show that proposed method outperforms latest generative models and the state-of-the-art video coding standard Versatile Video Coding (VVC) on both talking-face videos and movingbody videos in terms of both objective and subjective quality.
 
-![Fig 1](https://github.com/user-attachments/assets/7cf3b417-33d4-4631-8072-db166485a012)
+![Fig 1](https://github.com/user-attachments/assets/6ef4596c-ebd0-46bb-83c1-621792974fad)
 The journal version can be accessed at [this link](https://ieeexplore.ieee.org/abstract/document/11119716).
 
 ## Subjective Demos
