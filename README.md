@@ -1,4 +1,4 @@
-# [TCSVT2026]Extreme-Human-Video-Compression-with-Multi-granularity-Temporal-Trajectory-Factorization
+# [TCSVT2026]Generative human video compression with multi-granularity temporal trajectory factorization
 ### Shanzhi Yin&dagger;, Bolin Chen&dagger;, Shiqi Wang&dagger; and Yan Ye&sect;
 
 #### &dagger; City University of Hong Kong and &sect; Alibaba Group
@@ -10,6 +10,7 @@ bandwidth-constrained human-centered video streaming.
 + Experimental results show that proposed method outperforms latest generative models and the state-of-the-art video coding standard Versatile Video Coding (VVC) on both talking-face videos and movingbody videos in terms of both objective and subjective quality.
 
 ![Fig 1](https://github.com/user-attachments/assets/7cf3b417-33d4-4631-8072-db166485a012)
+The journal version can be accessed at [this link](https://ieeexplore.ieee.org/abstract/document/11119716).
 
 ## Subjective Demos
 
