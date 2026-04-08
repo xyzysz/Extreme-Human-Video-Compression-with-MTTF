@@ -26,7 +26,16 @@ https://github.com/user-attachments/assets/0b281538-8a2b-4eea-917a-ac467f7b6cda
 
 
 ## Code Release
-Comming soon..
+Before running this code, download human matting model following [this link.](https://github.com/xyzysz/Extreme-Human-Video-Compression-with-MTTF/blob/main/SemanticGuidedHumanMatting/README.md)
+
+For model training, excute
+`run.py`
+
+For encoding, excute
+`encode.py`
+
+For decoding, excute
+`decode.py`
 
 ### :e-mail: Contact
 
