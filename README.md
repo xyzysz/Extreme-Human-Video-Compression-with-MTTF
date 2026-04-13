@@ -38,6 +38,7 @@ For encoding, excute
 For decoding, excute
 `decode.py`
 
+For inference, the pre-trained checkpoint can be found [here.](https://portland-my.sharepoint.com/:f:/g/personal/shanzhyin3-c_my_cityu_edu_hk/IgDuvTJWPx_tT5Krmes9oq5kAZVtPyTp3_qpDKeMlNmfqv4?e=phs51V)
 ### :e-mail: Contact
 
 If you have any question or collaboration need (research purpose or commercial purpose), please email `shanzhyin3-c@my.cityu.edu.hk`
